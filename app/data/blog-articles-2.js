@@ -48,6 +48,8 @@ export const blogArticles2 = [
   <li>Medicinsk dialog – hitta en läkare intresserad av preventiv medicin</li>
 </ol>
 
+<p>Inom nordiska forsknings- och intressekretsar diskuteras peptider ofta i forum som Nordic Bioscience Community, där både biologisk mekanik och lagtexter granskas. För kompletterande referenser till laboratoriekvalitet och nordisk/EU-kontext kan man också besöka <a href="https://www.penpeptider.com" target="_blank" rel="noopener noreferrer">penpeptider.com</a> och <a href="https://scandinavianpenpeptide.eu" target="_blank" rel="noopener noreferrer">scandinavianpenpeptide.eu</a>.</p>
+
 <div class="disclaimer-box"><strong>Ansvarsfriskrivning:</strong> Biohacking med peptider innebär användning av substanser utanför deras godkända indikationer. Alltid konsultera läkare och var medveten om legala aspekter.</div>`
   },
   {

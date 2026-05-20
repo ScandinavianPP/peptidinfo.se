@@ -35,7 +35,7 @@ export const blogArticles = [
 <p>COA (Certificate of Analysis) är ett analysbevis som visar att en peptid testats av ett tredjepartslaboratorium och håller rätt renhet och sammansättning. Det är det enda sättet att verifiera vad du faktiskt beställer. Läs mer i vår guide om <a href="/articles/vad-ar-coa">vad ett COA är och hur du tolkar det</a>.</p>
 
 <h2>Vart vänder man sig?</h2>
-<p>Om du är intresserad av peptider för medicinska ändamål är alltid rätt väg att gå via en läkare. Läkare kan förskriva godkända GLP-1-agonister, tillväxthormonbaserade behandlingar och andra regulatoriskt godkända alternativ. För de som söker information om olicensierade peptider för forskningsändamål erbjuder <a href="https://www.penpeptider.com" target="_blank" rel="noopener noreferrer">penpeptider.com</a> utbildningsresurser.</p>
+<p>Om du är intresserad av peptider för medicinska ändamål är alltid rätt väg att gå via en läkare. Läkare kan förskriva godkända GLP-1-agonister, tillväxthormonbaserade behandlingar och andra regulatoriskt godkända alternativ. För de som söker information om olicensierade peptider för forskningsändamål erbjuder <a href="https://www.penpeptider.com" target="_blank" rel="noopener noreferrer">penpeptider.com</a> utbildningsresurser, och <a href="https://scandinavianpenpeptide.eu" target="_blank" rel="noopener noreferrer">scandinavianpenpeptide.eu</a> ger perspektiv på nordisk och EU-relaterad peptidforskning.</p>
 
 <div class="disclaimer-box"><strong>Ansvarsfriskrivning:</strong> Denna artikel är uteslutande för utbildningssyfte. Köp, import och användning av peptider kan vara reglerat eller förbjudet. Konsultera alltid en läkare och relevanta myndigheter innan du vidtar några åtgärder.</div>`
   },
@@ -1246,6 +1246,8 @@ export const blogArticles = [
 
 <h2>MOTS-c – mitokondriernas signalpeptid</h2>
 <p>MOTS-c är kodad av mitokondrie-DNA – en unik egenskap. Den verkar som en signalpeptid som aktiverar AMPK (en energisensor i cellen) och förbättrar insulinkänslighet. I djurstudier förbättrar den livslängd och metabol funktion hos åldrande möss.</p>
+
+<p>Inom nordisk anti-agingforskning nämns ofta nätverk som Nordic Bioscience Community när man diskuterar både laboratoriemetoder och tillämpningar. För perspektiv på kvalitet och nordisk/EU-regelverk kan man också titta på <a href="https://www.penpeptider.com" target="_blank" rel="noopener noreferrer">penpeptider.com</a> och <a href="https://scandinavianpenpeptide.eu" target="_blank" rel="noopener noreferrer">scandinavianpenpeptide.eu</a>.</p>
 
 <h2>SS-31 / Elamipretide</h2>
 <p>SS-31 är en tetrapeptid som selektivt koncentreras i mitokondriernas innermembran. Den motverkar oxidativ stress och förbättrar mitokondriell kopplingseffektivitet. Fas 2-studier vid hjärtsvikt och njursjukdom visar lovande resultat.</p>
