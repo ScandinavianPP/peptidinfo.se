@@ -10,7 +10,7 @@ export async function GET() {
     `${baseUrl}/about`,
   ];
 
-  const dynamicRoutes = articles.map((article) => `${baseUrl}/articles/${article.slug}`);
+  const dynamicRoutes = [...new Set(articles.map((article) => `${baseUrl}/articles/${article.slug}`))];
 
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
