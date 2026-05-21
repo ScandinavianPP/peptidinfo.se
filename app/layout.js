@@ -50,6 +50,8 @@ export default function RootLayout({ children }) {
   return (
     <html lang="sv">
       <head>
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="apple-touch-icon" href="/icon.png" />
         <script type="application/ld+json">{JSON.stringify(schemaData)}</script>
       </head>
       <body>
