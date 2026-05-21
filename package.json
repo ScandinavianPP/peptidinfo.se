@@ -15,7 +15,9 @@
     "swr": "2.2.0"
   },
   "devDependencies": {
+    "canvas": "^3.2.3",
     "eslint": "8.57.0",
-    "eslint-config-next": "14.2.4"
+    "eslint-config-next": "14.2.4",
+    "sharp": "^0.34.5"
   }
 }
